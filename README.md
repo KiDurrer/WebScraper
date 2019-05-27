@@ -2,7 +2,9 @@
 Python web scraper 
 This is a web scraper that
 uses Beautiful Soup
-and Json.
+Requirements:
+You must have beautiful soup
+to install bs4 simply pip install bs4
 
 DIRECTIONS:
 Run the file and input the 
