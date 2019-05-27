@@ -15,5 +15,7 @@ the directory that the main .py file
 is in
 
 TODO
+
 export using CSV instead of JSON
+
 add ability to go deep with extensions
